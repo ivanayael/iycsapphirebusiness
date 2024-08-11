@@ -248,6 +248,7 @@ sup {
 a {
   color: var(--bs-link-color);
   text-decoration: underline;
+  font-size:1.5rem;
 }
 a:hover {
   color: var(--bs-link-hover-color);
@@ -11258,6 +11259,11 @@ header.masthead .masthead-heading {
 .img-brand {
   height: 2.75rem;
 }
+
+section#prices.page-section{
+  margin-top: -10rem;
+}
+
 
 section#contact {
   background-color: #212529;

@@ -1,0 +1,44 @@
+IYC Sapphire Site: 
+Lista de modificaciones restantes
+HACER UN TRELLO!!! :D TILO? TELO? TRELLO? NO SE, YO TE LEO...TRELLO parece un error ortografico. No es un error, es una palabra que proviene de trelo, gallega, que significa "cuerda para atar la carga de los autos"
+
+Box con dominios en boostrap --investigación y realización
+Agregar contacto directo via email en website 
+Agregar mapa --> investigación y realización
+Agregar sitios web de muestra --> Banco Patagonia, OSDE, BlockFi, Kfee (Similar sección "Porfolio")
+Cambiar "Message" de sección Contact Me por letras en blanco
+Comprar Dominio .COM 1 YEAR, Comprar dominio .COM.AR Tambien
+
+The Nevermore Journal -- SapphireChronicles -- ES EL BLOG PERSONAL Y DE EXPERIENCIAS CON ACTUACION. 
+
+--Comprar el dominio 8 usd.
+--Agregar Adds para ganar dinero con el sitio (No se ni como se hace)
+--Adaptar las notas, utilizando inteligencia artificial, para que dirijan una mirada positiva sobre las experiencias negativas, con consejos y apreciaciones personales.
+--Cada nota reescrita, Re-publicarla en Instagram y Linkedin
+--Ordenar las secciones de WordPress (creo que lo mas difícil va a ser eso)
+--Revisar si hay plugins gratuitos que me sirvan para hacer mas publico las publicaciones
+--Vincular directamente con otras redes sociales
+
+LinkedIn
+--Todos los post viejos <= 2020 borrarlos, excepto algo significativo
+
+Instagram 
+--Chequear videos. Cualquiera que me comprometa borrarlo.
+
+Blog de Anna -- NO ES UN BLOG, ES UN PORFOLIO. Porfolio de Dibujos, Arte 2D (Esto es en caso de que no pueda pagar mas adobe), Arte 3D, Animaciones
+	---Escanear dibujos de papel
+	---Chequear y Subir dibujos 3D en galería
+	---Subir videos animados --YouTube, Final de la Tecnicatura, Animaciones que tenga en el portfolio de Adobe
+
+
+Sitio 3D -- Poner información sobre ThreeJS, cambiar la foto de fondo por una mejor y el tamaño de la tipografia
+
+Revivir Sitios 
+IYC Drone -- Realizar sitio compra de Drones con Prompt Engineer usando CodeIgnite, PHP, MYSQL, CC3, HTML5 y JavaScript
+---Sirve para practicar armar un sitio ecommerce
+
+Aprender a usar CapCut
+Revivir como funciona After Effects
+Aprender a usar Premiere
+Aprender a usar Animate
+Revivir Photoshop e illustrator
