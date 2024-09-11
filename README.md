@@ -10,7 +10,7 @@ Para clonar este repositorio en tu máquina local, usa el siguiente comando:
 git clone https://github.com/ivanayael/iycsapphirebusiness.git
 ```
 
-Navegar a la Carpeta del Repositorio
+## Navegar a la Carpeta del Repositorio
 
 Una vez clonado, navega a la carpeta del repositorio:
 
@@ -18,7 +18,7 @@ Una vez clonado, navega a la carpeta del repositorio:
 cd iycsapphirebusiness
 ```
 
-Realizar Cambios
+## Realizar Cambios
 
 Realiza cualquier cambio necesario en los archivos del sitio web.
 Inicializar Git (si es necesario)
@@ -29,7 +29,7 @@ Si el repositorio no está inicializado, puedes hacerlo con:
 git init
 ```
 
-Añadir Archivos al Repositorio
+## Añadir Archivos al Repositorio
 
 Agrega todos los archivos del sitio al repositorio local:
 
@@ -37,7 +37,7 @@ Agrega todos los archivos del sitio al repositorio local:
 git add .
 ```
 
-Realizar un Commit
+## Realizar un Commit
 
 Crea un commit con un mensaje descriptivo:
 
@@ -45,7 +45,7 @@ Crea un commit con un mensaje descriptivo:
 git commit -m "Descripción del commit"
 ```
 
-Agregar el Remoto (si es necesario)
+## Agregar el Remoto (si es necesario)
 
 Si necesitas agregar un remoto, usa el siguiente comando:
 
@@ -53,7 +53,7 @@ Si necesitas agregar un remoto, usa el siguiente comando:
 git remote add origin https://github.com/ivanayael/iycsapphirebusiness.git
 ```
 
-Empujar los Cambios al Repositorio Remoto
+## Empujar los Cambios al Repositorio Remoto
 
 Para subir los cambios al repositorio en GitHub, usa:
 
