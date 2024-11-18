@@ -11401,3 +11401,95 @@ body {
   background-color: var(--color-dark-sapphire);
   color: var(--color-white);
 }
+
+
+
+/* Estilo de la tarjeta */
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 300px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  overflow: hidden;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  perspective: 1000px; /* Añadimos perspectiva para el efecto 3D */
+}
+
+/* Efecto hover para hacer más interactiva la tarjeta */
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Imagen de la tarjeta con efecto 3D */
+.card-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  transition: transform 0.3s ease, filter 0.3s ease;
+  transform-origin: center;
+  /* Añadimos un ligero efecto de inclinación en el hover */
+}
+
+.card:hover .card-img {
+  transform: rotateY(15deg) rotateX(10deg); /* Inclinamos la imagen en 3D */
+  filter: brightness(90%); /* Oscurece la imagen ligeramente */
+}
+
+/* Cuerpo de la tarjeta */
+.card-body {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Título de la tarjeta */
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Descripción de la tarjeta */
+.card-text {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+/* Estilo de las estrellas de calificación */
+.ratings {
+  font-size: 1.2rem;
+  color: #f79c42;
+  margin-bottom: 20px;
+}
+
+/* Botón de llamada a la acción */
+.button {
+  background-color: #f79c42;
+  color: #fff;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #f57c42;
+}
+
+/* Media query para hacer la tarjeta responsiva */
+@media (max-width: 768px) {
+  .card {
+      width: 100%;
+  }
+}
